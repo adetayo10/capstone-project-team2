@@ -9,7 +9,7 @@ public class WeatherAppUserInsertion {
 
 	// DB connection details
 	private static final String userName = "doadmin";
-	private static final String password = "##########";
+	private static final String password = "";
 	private static final String dbName = "weatherDB";
 	private static final String port = "25060";
 	private static final String dbUrl = "academydb-c7-s1-t2-do-user-12484302-0.h.db.ondigitalocean.com";
